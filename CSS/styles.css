@@ -1,0 +1,89 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: Helvetica;
+  font-size: 14pt;
+  text-align: left;
+  margin-top: 80px;
+  padding: 30px;
+}
+header {
+  background-color: #F6F6F6;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 25px 0 black;
+}
+header * {
+  display: inline;
+}
+header li {
+    margin: 20px;
+}
+header li a {
+    color: #FF3346;
+    text-decoration: none;
+}
+form {
+  color: #FF3346;
+  font-family: Helvetica ;
+  font-size: 14pt;
+}
+
+h1 {
+  text-align: left;
+  color: #FF3346;
+  font-family: Brush Script MT;
+  font-size: 25pt;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main {
+  float: left;
+  width: 60%;
+  padding: 0 20px;
+}
+.right {
+  background-color: white;
+  float: left;
+  width: 30%;
+  padding: 15px;
+  margin-top: 7px;
+  text-align: center;
+}
+h2{
+  color: #FF3346;
+  font-family: Brush Script MT;
+  font-size: 25pt;
+  text-align: left;
+}
+ul.a {
+  color: black;
+  font-family: Helvetica;
+  font-size: 14pt;
+  text-align: left;
+}
+h3 {
+  color: #FF3346;
+  font-family: Brush Script MT;
+  font-size: 20pt;
+  text-align: left
+}
+ul.b {
+  color: black;
+  font-family: Helvetica;
+  font-size: 14pt;
+  text-align: left;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
